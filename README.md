@@ -1,4 +1,4 @@
-# BITPEOPLE Project
+# BIT PEOPLE Project
 
 To see project, please go to link: https://marija-paunovic-bitpeople.netlify.com/
 
